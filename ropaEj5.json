@@ -1,0 +1,31 @@
+[ {
+  "idProducto" : 1,
+  "precio" : 20.0
+}, {
+  "idProducto" : 2,
+  "precio" : 30.0
+}, {
+  "idProducto" : 3,
+  "precio" : 45.0
+}, {
+  "idProducto" : 4,
+  "precio" : 50.0
+}, {
+  "idProducto" : 5,
+  "precio" : 35.0
+}, {
+  "idProducto" : 6,
+  "precio" : 60.0
+}, {
+  "idProducto" : 7,
+  "precio" : 120.0
+}, {
+  "idProducto" : 8,
+  "precio" : 15.0
+}, {
+  "idProducto" : 9,
+  "precio" : 26.0
+}, {
+  "idProducto" : 10,
+  "precio" : 90.0
+} ]

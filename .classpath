@@ -6,5 +6,33 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/codemodel.jar"/>
+	<classpathentry kind="lib" path="lib/core-3.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/dtd-parser.jar"/>
+	<classpathentry kind="lib" path="lib/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="lib/istack-commons-runtime.jar"/>
+	<classpathentry kind="lib" path="lib/istack-commons-tools.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.13.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.18.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.18.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.18.0(1).jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.18.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-dataformat-xml-2.13.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-dataformat-xml-2.18.0.jar"/>
+	<classpathentry kind="lib" path="lib/javase-3.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/javax.activation-api.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-runtime.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="lib/json-20220320.jar"/>
+	<classpathentry kind="lib" path="lib/relaxng-datatype.jar"/>
+	<classpathentry kind="lib" path="lib/rngom.jar"/>
+	<classpathentry kind="lib" path="lib/stax2-api-4.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/stax-ex.jar"/>
+	<classpathentry kind="lib" path="lib/txw2.jar"/>
+	<classpathentry kind="lib" path="lib/woodstox-core-6.2.6.jar"/>
+	<classpathentry kind="lib" path="lib/woodstox-core-7.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/xsom.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
